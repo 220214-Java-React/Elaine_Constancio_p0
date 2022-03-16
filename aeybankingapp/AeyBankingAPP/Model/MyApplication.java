@@ -6,12 +6,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.sql.Connection;
 /**
- * This is main class that contains main function and will create objects of all classes used in this project
- * This will allow user to do bank related tasks.
- * User can create a account
- * User can update its information
- * User a do a transaction
- * Each change will be updated to bank's object
+ * @ author Elaine Regina Constancio
+ * Thank you Stackoverflow, geekforgeeks, and friends for all the help!
  */
 public class MyApplication {
 
